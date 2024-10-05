@@ -10,7 +10,7 @@ function ChatList() {
         <div className="chat-leftsidebar me-lg-1 ms-lg-0">
             <div className="tab-content">
                 <div
-                    className="tab-pane"
+                    className="tab-pane "
                     id="pills-user"
                     role="tabpanel"
                     aria-labelledby="pills-user-tab"
@@ -21,7 +21,7 @@ function ChatList() {
                 </div>
                 {/* Start chats tab-pane */}
                 <div
-                    className="tab-pane fade show active"
+                    className="tab-pane  fade show active"
                     id="pills-chat"
                     role="tabpanel"
                     aria-labelledby="pills-chat-tab"
@@ -45,7 +45,7 @@ function ChatList() {
                 {/* End groups tab-pane */}
                 {/* Start contacts tab-pane */}
                 <div
-                    className="tab-pane"
+                    className="tab-pane "
                     id="pills-contacts"
                     role="tabpanel"
                     aria-labelledby="pills-contacts-tab"
@@ -57,7 +57,7 @@ function ChatList() {
                 {/* End contacts tab-pane */}
                 {/* Start settings tab-pane */}
                 <div
-                    className="tab-pane"
+                    className="tab-pane "
                     id="pills-setting"
                     role="tabpanel"
                     aria-labelledby="pills-setting-tab"

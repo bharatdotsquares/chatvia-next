@@ -1,7 +1,7 @@
 import React from 'react'
-import ChatSearch from '../misc/ChatSearch'
-import ActiveCarousel from '../misc/ActiveCarousel'
-import ChatMessageList from '../misc/ChatMessageList'
+import ChatSearch from '../misc/messages/ChatSearch'
+import ActiveCarousel from '../misc/messages/ActiveCarousel'
+import ChatMessageList from '../misc/messages/ChatMessageList'
 
 function Chats() {
   return (
